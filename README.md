@@ -6,7 +6,8 @@
 ## 🎨 Frontend Development (UXE)
 - UX Engineering (UXE) is my thing, I like designing/building website/webapp UIs.
 - I’m currently working on <a href="https://growstocks.xyz">**GrowStocks**</a>, <a href="https://blockcorp.xyz">**BlockCorp**</a>, <a href="https://modcord.xyz">**ModCord**</a>, and <a href="#">**Growlancer**</a> as a UXE.
-- I'm also working on some experiments with using other languages for frontend development.
+- I'm also a part of the UID/UXE team of <a href="https://surpathhub.github.io/">**SurPath Hub**</a>
+- I'm working on experiments on making a [frontend framework made in PHP and a bit of TS/JS](https://github.com/MatteuSan/GaikanPHP).
 
 ### 💻 Language Stack:
 - SCSS for the styling side of the frontend
