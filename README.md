@@ -25,4 +25,4 @@
 ### よろしくねぇ！
 
 [![MatteuSan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatteuSan&theme=great-gatsby&layout=compact&hide_border=true&bg_color=232323)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatteuSan&theme=great-gatsby&layout=compact&hide_border=true&bg_color=232323)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatteuSan&theme=great-gatsby&layout=compact&hide_border=true&bg_color=181818)
