@@ -6,7 +6,7 @@
 ## 🎨 UX Engineering (UXE)
 - UX Engineering (UXE) is my thing, I like designing/building website/webapp UIs.
 - I’m currently working on <a href="https://growstocks.xyz">**GrowStocks**</a>, <a href="https://blockcorp.xyz">**BlockCorp**</a>, <a href="https://modcord.xyz">**ModCord**</a>, and <a href="#">**Growlancer**</a> as a UXE.
-- I'm also a part of the UID/UXE team of <a href="https://surpathhub.github.io/">**SurPath Hub**</a>
+- I'm also a part of the UID/UXE team of <a href="https://surpathhub.org/">**SurPath Hub**</a> and [**Dev Protocol** ](https://devprotocol.xyz)
 - I'm working on experiments on making a [frontend framework made in PHP and a bit of TS/JS](https://github.com/Gaikan/Gaikan).
 
 ### 💻 Language Stack:
