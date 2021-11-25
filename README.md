@@ -9,11 +9,8 @@
 - I'm also a part of the UID/UXE team of <a href="https://surpathhub.org/">**SurPath Hub**</a> and [**Dev Protocol** ](https://devprotocol.xyz)
 - I'm working on experiments on making a [frontend framework made in PHP and a bit of TS/JS](https://github.com/Gaikan/Gaikan).
 
-### 💻 Language Stack:
-- SCSS for the styling side of the frontend
-- JS or PHP for the frontend communication with the backend.
-- Frameworks/Libraries I use: React, Vue, Vanilla PHP, Laravel Blade.
-- PHP or Python for the backend (*I only do backend on personal projects*).
+### 💻 Tech Stack:
+- Here's a [link to the tech stack I use](https://stackshare.io/matteugt/web).
 
 ## 📫 Contact Me
 - If you'd like to talk to me, may it be with CSS/SCSS related stuff or just frontend development in general, here's my e-mail address: **matteugt@gmail.com**
