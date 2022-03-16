@@ -1,12 +1,13 @@
 ## 👋 はじめましてね I'm Matt! 
 
 - I specialize in UX Engineering.
-- I ***REALLY LOVE*** doing design system implementations. ([Check out my first one here](https://github.com/GrowStocks/stack))
+- I ***REALLY LOVE*** engineering design systems.
+- Here's a link to [my portfolio](https://matteusan.me/work).
 
 ## 🎨 UX Engineering (UXE)
-- UX Engineering (UXE) is my thing, I like designing/building website/webapp UIs.
+- UX Engineering (UXE) is my thing, I like building website/webapp UIs.
 - I’m currently working on <a href="https://growstocks.xyz">**GrowStocks**</a>, <a href="https://blockcorp.xyz">**BlockCorp**</a>, <a href="https://modcord.xyz">**ModCord**</a>, and <a href="#">**Growlancer**</a> as a UXE.
-- I'm also a part of the UID/UXE team of <a href="https://surpathhub.org/">**SurPath Hub**</a> and [**Dev Protocol** ](https://devprotocol.xyz)
+- I'm also a part of the UID/UXE team of <a href="https://surpathhub.org/">**SurPath Hub**</a> working on [Ugnay](https://sph-docs.netlify.app/docs/ugnay), and [**Dev Protocol** ](https://devprotocol.xyz) working on [Hashi](https://github.com/dev-protocol/hashi-web).
 - I'm working on experiments on making a [frontend framework made in PHP and a bit of TS/JS](https://github.com/Gaikan/Gaikan).
 
 ### 💻 Tech Stack:
