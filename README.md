@@ -1,24 +1,26 @@
 ## 👋 はじめましてね I'm Matt! 
 
-- I specialize in UX Engineering.
+- I'm a UX Engineer based in the Philippines, and I build bridges from software to user.
 - I ***REALLY LOVE*** engineering design systems.
-- Here's a link to [my portfolio](https://matteusan.me/work).
+- Here's a link to [my portfolio](https://matteusan.com).
 
 ## 🎨 UX Engineering (UXE)
-- UX Engineering (UXE) is my thing, I like building website/webapp UIs.
-- I’m currently working on <a href="https://growstocks.xyz">**GrowStocks**</a>, <a href="https://blockcorp.xyz">**BlockCorp**</a>, <a href="https://modcord.xyz">**ModCord**</a>, and <a href="#">**Growlancer**</a> as a UXE.
-- I'm also a part of the UID/UXE team of <a href="https://surpathhub.org/">**SurPath Hub**</a> working on [Ugnay](https://sph-docs.netlify.app/docs/ugnay), and [**Dev Protocol** ](https://devprotocol.xyz) working on [Hashi](https://github.com/dev-protocol/hashi-web).
-- I'm working on experiments on making a [frontend framework made in PHP and a bit of TS/JS](https://github.com/Gaikan/Gaikan).
+- UX Engineering (UXE) has been my thing for over 6 years now.
+- I’ve worked with multiple companies and organizations realize their needs in the user experience department by engineering the right internal tooling for their designers and engineers to use. Companies and organizations like [**GrowStocks**](https://growstocks.xyz), [**Dev Protocol**](https://devprotocol.xyz), [SurPathHub](https://github.com/SurPathHub), Luwal Sining-Pagganap, [**Pycord**](https://pycord.dev), BlockCorp, Growrr, and many more.
 
 ### 💻 Tech Stack:
 - Here's a [link to the tech stack I use](https://stackshare.io/matteugt/web).
 
 ## 📫 Contact Me
-- If you'd like to talk to me, may it be with CSS/SCSS related stuff or just frontend development in general, here's my e-mail address: **matteugt@gmail.com**
+- If you'd like to have a chat with me, either of these communication channels will do:
+  - **Discord:** @matteu
+  - **Email:** `matteugt@gmail.com`
+  - **Twitter (inactive):** @MatteuSan
+  - **LinkedIn:** [click here](https://linkedin.com/in/matteusan)
+  - **My personal website:** [click here](https://matteusan.com)
 
 ## ⚡ Other stuff...
 - 英語とタガログ語と日本語もOKですよ！
-- ⚡ Fun fact: Jackbox is fun, me and the gang play it every friday
 
 ### よろしくねぇ！
 
